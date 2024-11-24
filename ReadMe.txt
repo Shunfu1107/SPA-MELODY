@@ -1,3 +1,8 @@
+Because of the limited file size so i seperate the the admin.zip , bin.zip to subfile . Rmb put them in to SaMelody when open
+
+
+
+
 Login details for:
 
 i)Customer
